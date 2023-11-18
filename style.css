@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container1 {
+    background-color: #FF6B81;
+    height: 100vh;
+}
+
+.icon {
+    font-size: 2.5rem;
+}
+
+.icon i {
+    color: white;
+    margin-right: 10px;
+}
+
+
+.nbr {
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.btnn {
+    height: 50px;
+    width: 150px;
+    font-weight: 800 !important;
+}
+
+.btnn:hover {
+    color: #FF6B81 !important;
+
+}
+
+.brnd {
+    font-size: 33px !important;
+    font-weight: 600 !important;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.main2 {
+    background-color: #e4e4e4;
+}
+
+.pin {
+    color: #FF6B81;
+    padding-top: 90px;
+}
+
+.main2 .container a {
+    text-decoration: none;
+}
+
+.card-icon {
+    background-color: #FF6B81;
+    width: 60px;
+    height: 60px;
+    font-size: 40px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.392);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0.1px 0.1px 5px rgb(208, 208, 208);
+}
+
+.btnnm {
+    background-color: #FF6B81;
+    color: #f9f9f9;
+    height: 53px;
+    width: 150px;
+}
+
+.main5 {
+    background-color: #FF6B81;
+}
+
+.container a {
+    text-decoration: none;
+}
+
+.main9 {
+    background-color: #FF6B81;
+}
+.btn-l {
+    color: #FF6B81;
+}
+
+.btn-p {
+    border: solid white 2px;
+    height: 53px;
+    width: 150px;
+    font-weight: 700;
+}
+.btn-pin {
+    background-color: #FF6B81;
+    color: #f2f0f0;
+}
+
+.inst {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.accordion {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.main11 {
+    background-color: #e1e1e1;
+}
+.ime {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+footer {
+    background-color: #081828;
+    color: #f2f0f0;
+}
+
+.efg {
+    margin-bottom: 45px;
+}
+.last-container {
+    border: solid rgb(125, 125, 125) 2px;
+    border-radius: 10px;
+}
+.abcd {
+    border: none;
+    background-color: rgb(77, 77, 77);
+    color: #f2f0f0;
+    height: 50px;
+}
+.sear {
+    background-color: #FF6B81;
+    color: #f2f0f0;
+    width: 150px;
+    height: 49px;
+}
+b strong {
+    font-weight: bolder;
+}
+.text-center {
+    text-align: center!important;
+}
